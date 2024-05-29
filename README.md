@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning TypeScript, JavaScript, Vue.JS
 - 💞️ I’m looking to collaborate on any interesting web development project
 - 📫 you can reach me  
-      @LinkedIn:  https://www.linkedin.com/in/william-ng-5a4aa5168
+      @LinkedIn:  www.linkedin.com/in/wlm-ng
+
 
 <!---
 wng97/wng97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
