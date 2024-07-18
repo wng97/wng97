@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TypeScript, JavaScript, Vue.JS
 - 💞️ I’m looking to collaborate on any interesting web development project
 - 📫 you can reach me  
-      @LinkedIn:  www.linkedin.com/in/wlm-ng
+      @LinkedIn:  https://www.linkedin.com/in/wlm-ng/
 
 
 <!---
