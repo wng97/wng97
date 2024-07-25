@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is William Ng
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
-Software Engineer | Full-stack Developer
+Who am I?
 ----------------------------------------
 
-Hi guys, I'm William Ng! A Full-stack developer with an ambition to continue learning.
+Hi everyone, I'm William Ng, a Full Stack Developer with a strong ambition to continue learning and growing in my field. 
+I'm currently seeking new job opportunities to further develop my skills and contribute to innovative projects.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [wng8797@gmail.com](mailto:wng8797@gmail.com)
